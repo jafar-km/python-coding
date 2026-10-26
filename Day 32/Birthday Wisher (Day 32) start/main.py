@@ -5,7 +5,7 @@ now = dt.datetime.now()
 day_of_week = now.weekday()
 
 my_email = "abdallah01.abdulrhaman01@gmail.com"
-password = "vsvr npwe inxs gvfj"
+password = "blah"
 
 if day_of_week == 0:
     with open("quotes.txt", "r") as data_file:

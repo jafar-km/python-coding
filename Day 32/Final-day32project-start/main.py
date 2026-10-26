@@ -4,7 +4,7 @@ import datetime as dt
 import smtplib
 
 my_email = "abdallah01.abdulrhaman01@gmail.com"
-password = "bkwd upne slij gzat"
+password = "blah"
 
 
 # 2. Check if today matches the date in the greetings.csv
