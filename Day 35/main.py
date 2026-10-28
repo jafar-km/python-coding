@@ -1,7 +1,7 @@
 import requests
 
 OWM_ENDPOINT = "https://api.openweathermap.org/data/2.5/forecast"
-api_key = "286bbc59630071b3809a48e8417194ec"
+api_key = "blah"
 
 weather_params = {
     "lat" : 21.485811,

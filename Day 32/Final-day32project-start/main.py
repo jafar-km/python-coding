@@ -3,7 +3,7 @@ import random
 import datetime as dt
 import smtplib
 
-my_email = "abdallah01.abdulrhaman01@gmail.com"
+my_email = "blah"
 password = "blah"
 
 

@@ -1,4 +1,19 @@
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# PyCharm
 .idea/
-.env.DS_Store
+
+# macOS
+.DS_Store
